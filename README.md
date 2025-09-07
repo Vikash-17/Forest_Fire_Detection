@@ -1,4 +1,5 @@
 Forest Fire Detection-
+
 Introduction
 
 This project aims to detect forest fires from images using deep learning techniques. By classifying images into fire and no fire, it provides an automated approach to support early wildfire detection and prevention systems.

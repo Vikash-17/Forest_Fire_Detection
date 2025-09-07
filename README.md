@@ -1,10 +1,10 @@
-#Forest Fire Detection-
+Forest Fire Detection-
 
-##Introduction
+Introduction
 
 This project aims to detect forest fires from images using deep learning techniques. By classifying images into fire and no fire, it provides an automated approach to support early wildfire detection and prevention systems.
 
-##Project Tasks
+Project Tasks
 
 1. Data preprocessing and augmentation
 
@@ -14,7 +14,7 @@ This project aims to detect forest fires from images using deep learning techniq
 
 4. Visualization of predictions on test images
 
-##Major Libraries and Framework
+Major Libraries and Framework
 
 1. TensorFlow / Keras – Deep learning model building
 
@@ -24,7 +24,7 @@ This project aims to detect forest fires from images using deep learning techniq
 
 4. OpenCV – Image processing
 
-##Future Goals Regarding this Project
+Future Goals Regarding this Project
 
 1. Improve model accuracy using advanced architectures (CNN variants, transfer learning)
 
